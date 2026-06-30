@@ -1,8 +1,7 @@
-# Orbis — Repository Architecture Visualizer
+# Lattice  — Repository Architecture Visualizer
 
-> 🤖 This project was autonomously built using **[NEO](https://heyneo.so)** — your autonomous AI Agent.
 
-**Orbis turns any GitHub repository into an interactive 3D dependency graph in seconds.**
+**Lattice  turns any GitHub repository into an interactive 3D dependency graph in seconds.**
 
 Paste a repo URL → Orbis clones it, parses the ASTs, detects architecture patterns, and renders the entire codebase as a navigable 3D graph. Click any module to inspect its dependencies, metrics, and exported symbols. Ask the built-in AI assistant questions like *"which module should I refactor first?"* or *"why are there circular dependencies here?"* and get answers grounded in the actual code structure.
 
