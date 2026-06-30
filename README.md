@@ -21,8 +21,7 @@ Paste a repo URL → Orbis clones it, parses the ASTs, detects architecture patt
 | Layer | Technology |
 |-------|-----------|
 | Backend | FastAPI + Server-Sent Events (SSE) |
-| AST Parsing | tree-sitter (Python, JS/TS, Go, Rust, Java) |
-| AI | Claude Opus 4.6 via Anthropic API |
+| AST Parsing | tree-sitter ( Java) |
 | 3D Graph | [3d-force-graph](https://github.com/vasturiano/3d-force-graph) + Three.js |
 | Frontend | Vanilla JS SPA — no build step |
 
