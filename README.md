@@ -14,7 +14,6 @@ Paste a repo URL → Orbis clones it, parses the ASTs, detects architecture patt
 - **Focus Mode** — dim unconnected nodes to trace dependency paths
 - **Shareable URLs** — `?repo=https://github.com/...` auto-triggers analysis on load
 - **Recent history** — last 5 repos stored locally for quick re-analysis
-- **Demo mode** — load a pre-analyzed snapshot without a GitHub clone
 
 ## Tech Stack
 
